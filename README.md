@@ -1,3 +1,13 @@
-# :wave: Hello there! I am Boris.
+# Hey there! 👋
 
-## I don't do much here on GitHub. Check out my git solution here: [git.0boris.tech](https://git.0boris.tech/0boris/)
+**I'm Boris.** I'm a fullstack developer but I'm obsessed with studying. I'm interested in coding, history and I love languages.
+
+## I can speak:
+
+This isn't some clever way of saying what programming languages I know. I can actually speak:
+
+- 🇧🇬 Bulgarian
+- 🇬🇧 (British) English
+- 🇪🇸 Spanish
+- 🇷🇺 (A little bit of) Russian
+- 🇹🇷 Turkish
